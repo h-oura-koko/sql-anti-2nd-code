@@ -1,0 +1,1 @@
+CALL CloseUnresolvedBugsForProduct(1234);

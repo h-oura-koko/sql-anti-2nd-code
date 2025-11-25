@@ -1,0 +1,1 @@
+SELECT * FROM Bugs JOIN BugsProducts USING (bug_id);

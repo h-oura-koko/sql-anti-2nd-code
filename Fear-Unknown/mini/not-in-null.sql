@@ -1,0 +1,1 @@
+SELECT * FROM Bugs WHERE status NOT IN (NULL, 'NEW');

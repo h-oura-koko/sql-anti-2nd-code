@@ -1,0 +1,1 @@
+SELECT * FROM TelephoneBook WHERE first_name = 'Charles'; -- インデックスを使えません

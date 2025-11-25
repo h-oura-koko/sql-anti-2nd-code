@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT status) / COUNT(status) AS selectivity FROM Bugs;

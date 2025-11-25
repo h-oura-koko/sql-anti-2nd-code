@@ -1,0 +1,1 @@
+SELECT * FROM Products WHERE account_id REGEXP '\\b12\\b';

@@ -1,0 +1,1 @@
+SELECT DISTINCT date_reported, reported_by FROM Bugs;
